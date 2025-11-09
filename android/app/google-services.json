@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "839976882425",
+    "project_id": "ccard-5c6f9",
+    "storage_bucket": "ccard-5c6f9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839976882425:android:8b5e89b113c0c22dd59228",
+        "android_client_info": {
+          "package_name": "com.example.creditcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839976882425-dapvig5n2d04hkndmqameo956k44lvh5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.creditcard",
+            "certificate_hash": "d328c9c35e2f420781bb7b9d29e290727a411843"
+          }
+        },
+        {
+          "client_id": "839976882425-vnrmnbgnm5hbnmcmgen10q9ec12ogrcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8AiYgaBveDDhP92SKfNcpqWVLuOir9LE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839976882425-vnrmnbgnm5hbnmcmgen10q9ec12ogrcq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "839976882425-hbjml4rpl6lfm546ea30agtgnm0a1pd4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.creditcard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
